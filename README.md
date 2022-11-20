@@ -154,7 +154,7 @@ Access Database
 <tbody>
 <tr>
 <td>
-<a href="https://libert-music.vercel.app" >Music App </a> with ReactJs
+<a href="https://libmusic.vercel.app" >Music App </a> with ReactJs
 </td>
 <td><a href="https://libert-project.vercel.app/meteo" >Weather App</a> with ReactJs</td>
 
@@ -162,7 +162,7 @@ Access Database
 <tr>
 <td>
 <div style="margin-bottom: 0px;width: 250px;">
-<a href="https://libert-music.vercel.app" >
+<a href="https://libmusic.vercel.app" >
               <img src="assets/img/music-app.png"  style="object-fit:cover;height:100%" /></a>
             </div>
 </td>
@@ -173,7 +173,7 @@ Access Database
 
 </tr>
 <tr>
-<td align="center" colspan="2">See more on my <a href="https:libert.vercel.app">Portfolio</a></td>
+<td align="center" colspan="2">See more on my <a href="https://libert.vercel.app">Portfolio</a></td>
 </tr>
 
 </tbody>
