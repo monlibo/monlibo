@@ -172,7 +172,7 @@ Access Database
 </tbody>
 </table>
 
-## <span style="color:green">🐱‍👤 Projets
+## <span style="color:green"> 🤹 Projets
 
 <table  cellspacing="0" align="center" cellpadding="0" >
 <tbody>
