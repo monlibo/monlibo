@@ -1,59 +1,48 @@
 <p>
-<img src="assets/img/cover1.gif" style="display:inline-block;width:49%" />
-<img src="assets/img/cover2.gif" style="display:inline-block;width:49%" />
+<img src="assets/img/cover1.gif" style="display:inline-block;width:100%;" />
 </p>
 
 # <span style="color:green"> Hi! I'm Monlibo 👋 </span>
 
-<p style="font-size:18px;font-weight:600">Je vous crée des sites web et des applications web de qualité avec des interfaces belles et simples</p>
+<p style="font-size:18px;font-weight:600">I create quality websites and web applications with beautiful and simple interfaces.</p>
 
-## <span style="color:green">🤓 A propos
+## <span style="color:green">🤓 About me
 
-- 🚀 Je suis développeur web <strong> full-stack</strong>.
-- 🔭 J'apprend actuellement `Next.js` et `Node Js`
+- 🚀 I am a web developer <strong> full-stack</strong>.
+- 🔭 I am currently learning `Next.js` et `Node Js`
 
-- Je viens du Benin 😇😍🥳🥳🥳 et j'ai toujours été passioné par le numérique.
+- I come from Benin 😇😍🥳🥳🥳 and I have always been passionate about digital.
 
-- 🐱‍🏍J'adore Internet et j'aime en apprendre un peu plus chaque jours.
-- 🐱‍💻Vous pouvez me contacter pour des collaborations.
+- 🐱‍🏍I love the Internet and I like to learn a little more every day.
+- 🐱‍💻You can contact me for collaborations.
 
-## <span style="color:green">👽 Compétences
+## <span style="color:green">👽 Skills
 
-- ### 🦾 Langages
+- ### 🦾 Languages
 
 <table align="center" style="border-collapse: collapse;">
       <tbody>
         <tr>
           <td align="center">
-            <div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/html.png"  style="object-fit:cover;height:100%" />
-            </div>
+            <img src="assets/img/html.png"  style="width:200px" />
             HTML
           </td>
-<td  align="center">
-            <div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/css.png"  style="object-fit:cover;height:100%" />
-            </div>
+<td  align="center">            
+              <img src="assets/img/css.png"  style="width:200px" />           
             CSS
           </td>
 <td align="center">
-            <div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/php.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/php.png"  style="width:200px" />            
             PHP
           </td>
 
 <td align="center">
-<div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/js.png"  style="object-fit:cover;height:100%;object-position:center;" />
-            </div>
+              <img src="assets/img/js.png"   style="width:200px" />           
 JavaScript
 </td>
 
 <td align="center">
-<div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/sql.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/sql.png"  style="width:200px"  />
 SQL
 </td>
 </tr>
@@ -66,105 +55,91 @@ SQL
 <tbody>
 <tr>
 <td align="center" >
-<div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/tailwind.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/tailwind.png"  style="width:200px"  />
+      
 TailwindCss
 </td>
 <td align="center" >
-<div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/laravel.jpg"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/laravel.jpg"  style="width:200px"  />
+           
 Laravel
 </td>
 <td align="center" >
-<div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/react.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/react.png"  style="width:200px"  />
+      
 React.js
 </td>
 
 </tr>
 <tr>
 <td align="center" >
-<div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/next.jpeg"  style="object-fit:cover;height:100%" />
-            </div>Next.js
+              <img src="assets/img/next.jpeg"  style="width:200px"  />
+      
+      Next.js
 </td>
 <td align="center">
-<div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/express.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/express.png"  style="width:200px"  />
+      
 Express.js
 </td>
 
 <td align="center" >
-<div style="margin-bottom: 0px;width: 80px;height:80px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/sql.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/sql.png"  style="width:200px"  />
+      
 Alpine.js</td>
 
 </tr>
 </tbody>
 </table>
 
-- ### 🛠 Outils et autres
+- ### 🛠 Tools and others
 
 <table  cellspacing="0" align="center" cellpadding="0" >
 <tbody>
 <tr>
 <td align="center">
-<div style="margin-bottom: 0px;width: 50px;height:50px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/livewire.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/livewire.png"  style="width:100px"  />
+      
 Livewire
 </td>
 <td align="center">
-<div style="margin-bottom: 0px;width: 50px;height:50px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/git.jpg"  style="object-fit:cover;height:100%;object-position:left" />
-            </div>
+              <img src="assets/img/git.jpg"  style="width:100px" />
+      
 Git</td>
 <td align="center">
-<div style="margin-bottom: 0px;width: 50px;height:50px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/node.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/node.png"  style="width:100px" />
+      
 Node Js
 </td>
 <td align="center">
-<div style="margin-bottom: 0px;width: 50px;height:50px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/uml.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/uml.png"  style="width:100px" />
+      
 plantUML</td>
 </tr>
 <tr>
 <td align="center">
-<div style="margin-bottom: 0px;width: 50px;height:50px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/mysql.jpg"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/mysql.jpg"  style="width:100px" />
+      
 MySQL
 </td>
 <td align="center">
-<div style="margin-bottom: 0px;width: 50px;height:50px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/rapidapi.jpg"  style="object-fit:cover;height:100%;object-position:left" />
-            </div>
+              <img src="assets/img/rapidapi.jpg"  style="width:100px" />
+      
 RapidAPI</td>
 <td align="center">
-<div style="margin-bottom: 0px;width: 50px;height:50px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/vscode.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/vscode.png"  style="width:100px" />
+      
 Vscode</td>
 <td align="center">
-<div style="margin-bottom: 0px;width: 50px;height:50px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/photoshop.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/photoshop.png"  style="width:100px" />
+      
 PhotoShop</td>
 </tr>
 <tr>
 
 <td align="center">
-<div style="margin-bottom: 0px;width: 50px;height:50px;border-radius:100%;overflow:hidden">
-              <img src="assets/img/access.png"  style="object-fit:cover;height:100%" />
-            </div>
+              <img src="assets/img/access.png"  style="width:100px" />
+      
 Access Database
 </td>
 
@@ -172,7 +147,7 @@ Access Database
 </tbody>
 </table>
 
-## <span style="color:green"> 🤹 Projets
+## <span style="color:green"> 🤹 Projects
 
 <table  cellspacing="0" align="center" cellpadding="0" >
 <tbody>
@@ -203,34 +178,31 @@ Access Database
 </tbody>
 </table>
 
-## <span style="color:green">⛑ Services
+## <span style="color:green"> 👨‍⚖️ Services
 
 <table  cellspacing="0" align="center" cellpadding="0" >
 <tbody>
 <tr>
 <td>
 
-Développement web
+Web development
 
-<div style="margin-bottom: 0px;width: 250px;">
-              <img src="assets/img/webdev.png"  style="object-fit:cover;height:100%" />
-            </div>
+<img src="assets/img/webdev.png"  style="width:300px" />
+            
 </td>
 <td>
 
-Conception
+Designing
 
-<div style="margin-bottom: 0px;width: 250px;">
-              <img src="assets/img/conception.jpg"  style="object-fit:cover;height:100%" />
-            </div>
+<img src="assets/img/conception.jpg"  style="width:300px" />
+           
 </td>
 <td>
 
 Design
 
-<div style="margin-bottom: 0px;width: 250px;">
-              <img src="assets/img/design.jpg"  style="object-fit:cover;height:100%" />
-            </div>
+<img src="assets/img/design.jpg"  style="width:300px" />
+            
 </td>
 <tbody>
 </table>
@@ -238,7 +210,7 @@ Design
 ## <span style="color:green">🔮 Contact
 
 - 📪 Mail : libertliboo@gmail.com
-- 📱 Phone / Whatsapp : [+229 65 32 65 75](https://whatsapp.me/+22965323575)
+- 📱 Phone / Whatsapp : [+229 65 32 65 75](https://wa.me/22965323575)
 - 🐦 Twitter : [Libert Assogba](https://twitter.com/libertassogba)
 
 Thank you for reading 💖💖💖
