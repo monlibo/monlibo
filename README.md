@@ -12,7 +12,7 @@
 - 🚀 I am a web developer <strong> full-stack</strong>.
 - 🔭 I am currently learning `Next.js` et `Node Js`.
 
-- I come from Benin 😇😍🥳🥳🥳 and I have always been passionate about digital.
+- I come from Benin 🇧🇯🇧🇯 and I have always been passionate about digital.
 
 - 🐱‍🏍I love the Internet and I like to learn a little more every day.
 - 🐱‍💻You can contact me for collaborations.
@@ -211,7 +211,7 @@ Design
 ## <span style="color:green">🔮 Contact
 
 - 📪 Mail : libertliboo@gmail.com
-- 📱 Phone / Whatsapp : [+229 65 32 65 75](https://wa.me/22965323575)
+- 📱 Phone / Whatsapp : [+229 65 32 35 75](https://wa.me/22965323575)
 - 🐦 Twitter : [Libert Assogba](https://twitter.com/libertassogba)
 
 Thank you for reading 💖💖💖
