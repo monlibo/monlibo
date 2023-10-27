@@ -44,10 +44,13 @@ JavaScript
 
 <td align="center">
               <img src="assets/img/sql.png"  style="width:200px"  />
-      <td align="center">
-              <img src="https://th.bing.com/th/id/OIP._Lm_T3scKhVEVFC54gcRxwAAAA?pid=ImgDet&rs=1"  style="width:200px"  />
+     
 SQL
 </td>
+ <td align="center">
+              <img src="https://th.bing.com/th/id/OIP._Lm_T3scKhVEVFC54gcRxwAAAA?pid=ImgDet&rs=1"  style="width:200px"  />
+       Java
+ </td>
 </tr>
 </tbody>
 </table>
