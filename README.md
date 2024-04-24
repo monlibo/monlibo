@@ -224,4 +224,4 @@ Design
 - 📱 Phone / Whatsapp : [+229 65 32 35 75](https://wa.me/22965323575)
 - 🐦 Twitter : [Libert Assogba](https://twitter.com/libertassogba)
 
-Thank you for reading 💖💖💖
+Thank you for reading 
